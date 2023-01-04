@@ -13,3 +13,5 @@ The files for our website
 ### [Course name] Lessons
 
 The files for our [course name] course. Here you will find the source code and the presentation of each lesson.
+
+![Logo](https://raw.githubusercontent.com/simplified-coding/.github/main/profile/logo.png)
