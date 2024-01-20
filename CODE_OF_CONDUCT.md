@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our
+We as members, contributors, and The Simplified Coding Team pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sexual orientation, gender
 identity and expression, level of experience, education, socio-economic status,
@@ -43,7 +43,7 @@ acceptable behavior and will take appropriate and fair corrective action in
 response to any behavior that they deem inappropriate, threatening, offensive,
 or harmful.
 
-The Simplified Coding Team is have the right and responsibility to remove, edit, or reject
+The Simplified Coding Team has the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
@@ -59,15 +59,15 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to The Simplified Coding Team at [odysseus@simplifiedcoding.tech](mailto:odysseus@simplifiedcoding.tech).
+reported to The Simplified Coding Team at [main@simplifiedcoding.org](mailto:main@simplifiedcoding.org).
 All complaints will be reviewed and investigated promptly and fairly.
 
-All community leaders are obligated to respect the privacy and security of the
+All members of The Simplified Coding Team are obligated to respect the privacy and security of the
 reporter of any incident.
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining
+The Simplified Coding Team will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
@@ -75,7 +75,7 @@ the consequences for any action they deem in violation of this Code of Conduct:
 **Community Impact**: Use of inappropriate language or other behavior deemed
 unprofessional or unwelcome in the community.
 
-**Consequence**: A private, written warning from community leaders, providing
+**Consequence**: A private, written warning from The Simplified Coding team, providing
 clarity around the nature of the violation and an explanation of why the
 behavior was inappropriate. A public apology may be requested.
 
@@ -108,7 +108,7 @@ Violating these terms may lead to a permanent ban.
 standards, including sustained inappropriate behavior,  harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
-**Consequence**: A permanent ban from any sort of public interaction within
+**Consequence**: A permanent ban from any sort of public or private interaction within
 the community.
 
 ## Attribution
