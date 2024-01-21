@@ -4,4 +4,4 @@
 
 Just want the website? Click ![me!](simplifiedcoding.org)
 
-![Logo](https://raw.githubusercontent.com/simplified-coding/.github/main/profile/default.png)
+![Logo](https://raw.githubusercontent.com/simplified-coding/.github/main/profile/cover.png)
