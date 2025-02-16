@@ -34,3 +34,14 @@ _Source: opensource.com | This heading is under the CC-BY-SA 4.0 License_
 
 # The review process
 Once you submit your Pull Request, The Simplified Coding Team will be notified and schedule a meeting to review it. The meeting will be recorded for transparency, and there are three possible outcomes. The Simplified Coding either approves your PR and merges it, rejects it and closes it or requests changes. In the last case, we will write a description of the change required for the change to be approved. After the changes have been made, we will approve the PR and merge it.
+
+# Join the Simplified Coding Team
+
+At Simplified Coding, we embrace open-source collaboration. If you’d like to contribute to our website, feel free to submit your improvements directly on our GitHub. If you’re interested in becoming an official team member, here’s what we’re looking for:
+
+- Working proficiency in Modern Greek (assessed through your communication with us).
+- Consistent contributions to our projects for at least 3 months.
+- Availability to participate in team meetings.
+- Compliance with our Code of Conduct for the past 4 months.
+
+If you meet these requirements, email us at main@simplifiedcoding.org. We’d love to welcome you to the team!
